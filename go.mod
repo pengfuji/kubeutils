@@ -1,4 +1,4 @@
-module kubeutils
+module github.com/pengfuji/kubeutils
 
 go 1.24.6
 
