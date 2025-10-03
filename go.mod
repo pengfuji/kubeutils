@@ -1,4 +1,4 @@
-module github.com/YuanDieHao/kubeutils
+module github.com/pengfuji/kubeutils
 
 go 1.22.4
 
