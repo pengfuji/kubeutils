@@ -3,7 +3,7 @@ module github.com/pengfuji/kubeutils
 go 1.22.4
 
 require (
-	github.com/dotbalo/kubeutils v0.1.13
+	github.com/pengfuji/kubeutils v0.0.0
 	github.com/natefinch/lumberjack v2.0.0+incompatible
 	github.com/sirupsen/logrus v1.9.3
 	k8s.io/api v0.30.3
